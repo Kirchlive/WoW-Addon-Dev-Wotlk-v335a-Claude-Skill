@@ -1,5 +1,5 @@
 ---
-name: wow-addon-wotlk-335
+name: wow-addon-dev-wotlk-v335a
 description: Develop, port, and debug World of Warcraft addons for the WotLK 3.3.5a (Interface 30300, Lua 5.1) client and Classic+ private servers built on it — including Project Epoch, Warmane, Ascension, and Atlantiss. Use this skill whenever the user asks about WoW addon development on a 3.3.5/3.3.5a/WotLK private server, mentions Project Epoch, references files in an `Interface/AddOns/` folder, asks to write or fix a `.toc` file with `Interface: 30300`, debugs Lua errors from a 3.3.5 client, ports an addon from Vanilla 1.12 / Retail / TBC to WotLK 3.3.5, or works with libraries like Ace3, pfQuest-wotlk, ElvUI-WotLK, or any addon in the WotLK 3.3.5 ecosystem — even if they don't explicitly say "WotLK" or "3.3.5".
 ---
 
